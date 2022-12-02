@@ -1,0 +1,13 @@
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\InputReader.deps.json
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\InputReader.dll
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\InputReader.pdb
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.csproj.AssemblyReference.cache
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.AssemblyInfoInputs.cache
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.AssemblyInfo.cs
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.csproj.CoreCompileInputs.cache
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.dll
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\refint\InputReader.dll
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.pdb
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\ref\InputReader.dll
+C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\Input\Exercise1Day1.txt
