@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david.barzi\\source\\repos\\Advent2022\\AdventOfCode2022\\AdventOfCode2022\\AdventOfCode2022.csproj",
-      "projectName": "AdventOfCode2022",
-      "projectPath": "C:\\Users\\david.barzi\\source\\repos\\Advent2022\\AdventOfCode2022\\AdventOfCode2022\\AdventOfCode2022.csproj",
+      "projectUniqueName": "C:\\Users\\david.barzi\\source\\repos\\Advent2022\\AdventOfCode2022\\AdventOfCode2022\\Day1.csproj",
+      "projectName": "Day1",
+      "projectPath": "C:\\Users\\david.barzi\\source\\repos\\Advent2022\\AdventOfCode2022\\AdventOfCode2022\\Day1.csproj",
       "packagesPath": "C:\\Users\\david.barzi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\david.barzi\\source\\repos\\Advent2022\\AdventOfCode2022\\AdventOfCode2022\\obj\\",
       "projectStyle": "PackageReference",

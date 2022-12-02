@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2022", "AdventOfCode2022\AdventOfCode2022.csproj", "{BB883A56-3628-40B5-9499-22EEE5430E78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1", "AdventOfCode2022\Day1.csproj", "{BB883A56-3628-40B5-9499-22EEE5430E78}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day1", "Day1", "{9028212E-F310-4868-B630-4E4CA947585D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputReader", "InputReader\InputReader.csproj", "{CC56EF78-2B81-4D07-8AFA-34F93B747C2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputReader", "InputReader\InputReader.csproj", "{CC56EF78-2B81-4D07-8AFA-34F93B747C2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +24,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{BB883A56-3628-40B5-9499-22EEE5430E78} = {9028212E-F310-4868-B630-4E4CA947585D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E7ED0C44-4BA1-4624-86FA-86E18886E0F4}
