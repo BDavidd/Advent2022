@@ -9,6 +9,11 @@ internal class Program
         var ex1Result = new Exercise1().Solve(exercise1Input);
         Console.WriteLine(ex1Result);
 
+        var exercise2Input = InputProvider.GetInput(ExerciseIds.Exercise2Day1);
+        var ex2Result = new Exercise2().Solve(exercise2Input);
+        Console.WriteLine(ex2Result);
+
         exercise1Input.Dispose();
+        exercise2Input.Dispose();
     }
 }
