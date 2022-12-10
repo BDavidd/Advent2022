@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1", "AdventOfCode2022\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputReader", "InputReader\InputReader.csproj", "{CC56EF78-2B81-4D07-8AFA-34F93B747C2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2", "Day2\Day2.csproj", "{043DA7AB-6FDC-431E-9944-E85D87996344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC56EF78-2B81-4D07-8AFA-34F93B747C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC56EF78-2B81-4D07-8AFA-34F93B747C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC56EF78-2B81-4D07-8AFA-34F93B747C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043DA7AB-6FDC-431E-9944-E85D87996344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043DA7AB-6FDC-431E-9944-E85D87996344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043DA7AB-6FDC-431E-9944-E85D87996344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043DA7AB-6FDC-431E-9944-E85D87996344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

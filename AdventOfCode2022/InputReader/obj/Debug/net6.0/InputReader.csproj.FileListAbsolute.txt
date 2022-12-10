@@ -24,3 +24,4 @@ C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\
 C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\refint\InputReader.dll
 C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.pdb
 C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\ref\InputReader.dll
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\Input\Exercise1Day2.txt
