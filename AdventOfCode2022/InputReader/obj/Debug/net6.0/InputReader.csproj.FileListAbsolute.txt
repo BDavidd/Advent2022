@@ -11,3 +11,16 @@ C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\De
 C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\refint\InputReader.dll
 C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.pdb
 C:\Users\david.barzi\source\repos\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\ref\InputReader.dll
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\Input\Exercise1Day1.txt
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\InputReader.deps.json
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\InputReader.dll
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\bin\Debug\net6.0\InputReader.pdb
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.csproj.AssemblyReference.cache
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.AssemblyInfoInputs.cache
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.AssemblyInfo.cs
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.csproj.CoreCompileInputs.cache
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.dll
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\refint\InputReader.dll
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\InputReader.pdb
+C:\Users\barzi\Source\Repos\BDavidd\Advent2022\AdventOfCode2022\InputReader\obj\Debug\net6.0\ref\InputReader.dll

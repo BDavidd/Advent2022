@@ -1,15 +1,13 @@
-﻿namespace AdventOfCode2022;
+﻿namespace AdventOfCode2022.Day1;
 
-internal class Exercise2
+internal static class Exercise2
 {
-    public int Solve(Stream input)
+    public static int Solve(IReadOnlyCollection<string> input)
     {
-        using var reader = new StreamReader(input);
-        string? line;
         var values = new List<int>();
         int current = 0;
 
-        while ((line = reader.ReadLine()) != null)
+        foreach (var line in input)
         {
             if (string.IsNullOrEmpty(line))
             {
