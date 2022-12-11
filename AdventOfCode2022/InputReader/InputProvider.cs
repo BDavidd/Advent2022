@@ -4,11 +4,9 @@
     {
         private static readonly Dictionary<string, string> PathMap = new()
         {
-            { ExerciseIds.Exercise1Day1, @"Input\Exercise1Day1.txt" },
-            { ExerciseIds.Exercise2Day1, @"Input\Exercise1Day1.txt" },
-            { ExerciseIds.Exercise1Day2, @"Input\Exercise1Day2.txt" },
-            { ExerciseIds.Exercise2Day2, @"Input\Exercise1Day2.txt" },
-            { ExerciseIds.Exercise1Day3, @"Input\Exercise1Day3.txt" }
+            { ExerciseIds.Day1, @"Input\Day1.txt" },
+            { ExerciseIds.Day2, @"Input\Day2.txt" },
+            { ExerciseIds.Day3, @"Input\Day3.txt" }
         };
 
         public static Stream GetInput(string exerciseId)
