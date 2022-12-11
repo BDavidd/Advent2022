@@ -1,4 +1,6 @@
-﻿namespace AdventOfCode2022.Day2;
+﻿using System.Data;
+
+namespace AdventOfCode2022.Day2;
 internal static class GameRules
 {
     private const string OwnRock = "X";
@@ -8,6 +10,10 @@ internal static class GameRules
     private const string OtherRock = "A";
     private const string OtherPaper = "B";
     private const string OtherScissors = "C";
+
+    private const string LoseStrategy = "X";
+    private const string DrawStrategy = "Y";
+    private const string WinStrategy = "Z";
 
     private const int RockBonus = 1;
     private const int PaperBonus = 2;
@@ -25,6 +31,25 @@ internal static class GameRules
             OwnScissors => GetForScissors(otherChoice),
             _ => throw new ArgumentException()
         };
+
+    public static int GetScoreForStrategy(string strategy, string otherChoice)
+    {
+        var ownChoice = strategy switch
+        {
+            LoseStrategy when otherChoice == OtherRock => OwnScissors,
+            LoseStrategy when otherChoice == OtherPaper => OwnRock,
+            LoseStrategy when otherChoice == OtherScissors => OwnPaper,
+            DrawStrategy when otherChoice == OtherRock => OwnRock,
+            DrawStrategy when otherChoice == OtherPaper => OwnPaper,
+            DrawStrategy when otherChoice == OtherScissors => OwnScissors,
+            WinStrategy when otherChoice == OtherRock => OwnPaper,
+            WinStrategy when otherChoice == OtherPaper => OwnScissors,
+            WinStrategy when otherChoice == OtherScissors => OwnRock,
+            _ => throw new ArgumentException()
+        };
+
+        return GetScore(ownChoice, otherChoice);
+    }
 
     private static int GetForRock(string other)
         => other switch
