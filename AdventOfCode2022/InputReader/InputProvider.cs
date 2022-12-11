@@ -7,7 +7,8 @@
             { ExerciseIds.Exercise1Day1, @"Input\Exercise1Day1.txt" },
             { ExerciseIds.Exercise2Day1, @"Input\Exercise1Day1.txt" },
             { ExerciseIds.Exercise1Day2, @"Input\Exercise1Day2.txt" },
-            { ExerciseIds.Exercise2Day2, @"Input\Exercise1Day2.txt" }
+            { ExerciseIds.Exercise2Day2, @"Input\Exercise1Day2.txt" },
+            { ExerciseIds.Exercise1Day3, @"Input\Exercise1Day3.txt" }
         };
 
         public static Stream GetInput(string exerciseId)
