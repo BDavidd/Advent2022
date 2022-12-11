@@ -6,7 +6,8 @@
         {
             { ExerciseIds.Day1, @"Input\Day1.txt" },
             { ExerciseIds.Day2, @"Input\Day2.txt" },
-            { ExerciseIds.Day3, @"Input\Day3.txt" }
+            { ExerciseIds.Day3, @"Input\Day3.txt" },
+            { ExerciseIds.Day4, @"Input\Day4.txt" }
         };
 
         public static Stream GetInput(string exerciseId)
