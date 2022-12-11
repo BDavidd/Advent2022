@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1", "Day1\Day1.csproj", "{BB883A56-3628-40B5-9499-22EEE5430E78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day1", "AdventOfCode2022\Day1.csproj", "{BB883A56-3628-40B5-9499-22EEE5430E78}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputReader", "InputReader\InputReader.csproj", "{CC56EF78-2B81-4D07-8AFA-34F93B747C2E}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3", "Day3\Day3.csproj", "{5CD24B40-DAB9-4C51-8734-3C1EE42D73DA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4", "Day4\Day4.csproj", "{9FDEE5A1-F346-4FAA-9F0E-DF65AAC47A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5", "Day5\Day5.csproj", "{B087496D-D750-4304-AA75-22DC6341353E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{9FDEE5A1-F346-4FAA-9F0E-DF65AAC47A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FDEE5A1-F346-4FAA-9F0E-DF65AAC47A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FDEE5A1-F346-4FAA-9F0E-DF65AAC47A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B087496D-D750-4304-AA75-22DC6341353E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B087496D-D750-4304-AA75-22DC6341353E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B087496D-D750-4304-AA75-22DC6341353E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B087496D-D750-4304-AA75-22DC6341353E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
